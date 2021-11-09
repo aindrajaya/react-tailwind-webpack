@@ -1,0 +1,49 @@
+{
+  "name": "react-tailwind-webpack",
+  "version": "1.0.0",
+  "description": "this for learning and projects purpose, feel free to contribute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aindrajaya/react-tailwind-webpack.git"
+  },
+  "keywords": [
+    "react",
+    "tailwind",
+    "webpack",
+    "configuration"
+  ],
+  "author": "aindrajaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aindrajaya/react-tailwind-webpack/issues"
+  },
+  "homepage": "https://github.com/aindrajaya/react-tailwind-webpack#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/preset-react": "^7.14.5",
+    "autoprefixer": "^10.3.7",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^6.4.0",
+    "cssnano": "^5.0.8",
+    "html-webpack-plugin": "^5.4.0",
+    "mini-css-extract-plugin": "^2.4.2",
+    "postcss": "^8.3.9",
+    "postcss-cli": "^9.0.1",
+    "postcss-import": "^14.0.2",
+    "postcss-loader": "^6.2.0",
+    "style-loader": "^3.3.0",
+    "tailwindcss": "^2.2.17",
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0",
+    "webpack-dev-server": "^4.3.1"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
